@@ -16,4 +16,4 @@ Run `npm run dev` for a dev server. Navigate to `http://localhost:4200/`. The Gr
 
 ## Further help
 
-To get more help on the template contact me `genieouzog@gmail.com`.
+To get more help on the template contact me `genieouzog@gmail.com` or see [link](https://www.graphql-code-generator.com/docs/getting-started/installation).
