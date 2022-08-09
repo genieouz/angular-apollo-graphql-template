@@ -13,3 +13,7 @@ Run `npm run dev` for a dev server. Navigate to `http://localhost:4200/`. The Gr
 3. Save the folder
 4. If you did not launch the program with the `npm run dev` command then run `npm run graphql-gen` to generate the service.
 5. See how to use the new generated service in `src/app/graphql/teste-gql/teste-gql.component.ts`
+
+## Further help
+
+To get more help on the template contact me `genieouzog@gmail.com`.
