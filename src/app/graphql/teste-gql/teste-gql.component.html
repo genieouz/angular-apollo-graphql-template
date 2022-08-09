@@ -1,0 +1,14 @@
+<table>
+  <thead>
+    <th>Currency</th>
+    <th>Name</th>
+    <th>Rate</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let rate of rates">
+      <td>{{rate.currency}}</td>
+      <td>{{rate.name}}</td>
+      <td>{{rate.rate}}</td>
+    </tr>
+  </tbody>
+</table>
