@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 ## Install dependencies
-Use `npm i --force` since there are some depencies issues between `apollo-angular@3.0.1` et `angular 14`
+Use `npm i --force` since there are some dependencies issues between `apollo-angular@3.0.1` and `angular 14`
 
 ## Development server
 
