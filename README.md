@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
+## Install dependencies
+Use `npm i --force` since there are some depencies issues between `apollo-angular@3.0.1` et `angular 14`
+
 ## Development server
 
 Run `npm run dev` for a dev server. Navigate to `http://localhost:4200/`. The GraphQL services and schemas will automatically generated if you change any .graphql file.
